@@ -2,12 +2,12 @@
 ### Based on CatVod
 https://github.com/CatVodTVOfficial/CatVodTVSpider
 
-## 总览 (觉得好用就点个Star吧)
-
-## 吃瓜频道 实时更新
-```shell
-https://t.me/livecgchannle
+## 广子（正经大额流量卡）
 ```
+https://ym.ksjhaoka.com/?s=qaaJsQHd289860
+```
+
+## 总览 (觉得好用就点个Star吧)
 
 ## 机器人
 ```shell
@@ -45,19 +45,19 @@ https://t.me/liveddjkbot
 
 ## jar脚本 (上面状态不稳定哦)
 ```shell
-https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar
+https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar
 ```
 
 # 点播接口专区
 
 > 直接使用接口 (正能量)
 ```shell
-https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index.json
+https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index.json
 ```
 
 > 纯18接口
 ```shell
-https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json
+https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json
 ```
 
 > jsdelivr 免费 CDN
@@ -69,32 +69,22 @@ https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index.json
 
 > 虎牙一起看
 ```shell
-https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/hy.txt
+https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/hy.txt
 ```
 
 > 斗鱼一起看
 ```shell
-https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/dy.txt
+https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/dy.txt
 ```
 
 > 虎牙&斗鱼 一起看
 ```shell
-https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/zbyqk.txt
+https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/zbyqk.txt
 ```
 
 > 成年人爱看的那些![img.png](img.png)
 ```shell
-https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/sjdy.txt
-```
-
-> 韩国熊猫tv 需科学
-```shell
-https://api.buxiangyao.link/tvbox/tv.txt
-```
-
-> 在线观看（带字幕）需科学
-```shell
-https://api.buxiangyao.link/jp
+https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/sjdy.txt
 ```
 
 # 应用专区

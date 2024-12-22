@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
 
 public class HiPianZhiBo extends Spider {
 
-    private static final String siteUrl = "https://www.78dick.com";
+    private static final String siteUrl = "https://78isp.com";
     private static final String cateUrl = siteUrl + "/index.php/vod/type/id/";
     private static final String detailUrl = siteUrl + "/index.php/vod/play/id/";
     private static final String playUrl = siteUrl + "/play/";
